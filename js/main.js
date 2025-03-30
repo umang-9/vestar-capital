@@ -997,7 +997,7 @@ function unload() {
 
 function moveToNextPageOnSroll() {
   var currentPage;
-  if (document.location.pathname == "/html/") {
+  if (document.location.pathname == "/vestar-capital/") {
     currentPage = 'index.html';
   } 
   else {
