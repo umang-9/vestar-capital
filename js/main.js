@@ -1008,7 +1008,7 @@ function moveToNextPageOnSroll() {
   if (currentPage == 'index.html') {
     // console.log("moveToNextPageOnSroll if");
     swup.loadPage({
-      url: '/html/about-us.html',
+      url: '/vestar-capital/about-us.html',
     });
   } 
   else {
@@ -1057,7 +1057,7 @@ function moveToPrevPageOnSroll() {
   if (currentPage == 'about-us.html') {
     console.log("First If");
     swup.loadPage({
-      url: '/html/',
+      url: '/vestar-capital/',
     });
   } 
   else {
